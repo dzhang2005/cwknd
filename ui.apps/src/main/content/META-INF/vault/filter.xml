@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/cwknd/clientlibs"/>
+    <filter root="/apps/cwknd/components"/>
+    <filter root="/apps/cwknd/i18n"/>
+</workspaceFilter>
